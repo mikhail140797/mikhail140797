@@ -20,7 +20,7 @@
 ![EXCEL](https://img.shields.io/badge/-EXCEL-FF?style=for-the-badge&logo=EXCEL)
 ![EXCEL](https://img.shields.io/badge/-Google_Sheets-FFF?style=for-the-badge&logo=GoogleSheets)
 ![GIT](https://img.shields.io/badge/-GIT-FFF?style=for-the-badge&logo=GIT)
-![Airflow](https://img.shields.io/badge/-apacheairflow-FFF?style=for-the-badge&logo=apacheairflow)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-2.6.0-blue?logo=apacheairflow&logoColor=white)
 
 </div>
           
