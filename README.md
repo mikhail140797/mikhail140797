@@ -4,3 +4,14 @@
 <div align="center">
 
 # Привет, я Михаил 👋
+
+</div>
+
+## Languages and tools 🔧
+
+<div align="center">
+
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg)
+
+</div>
+          
