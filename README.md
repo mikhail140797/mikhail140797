@@ -5,11 +5,9 @@
 
 # Привет, я Михаил 👋
 
-<div align="center">
+## Contacts ✉️
 
-[![telegram](https://camo.githubusercontent.com/8f41682a178e57a174d0c6042e9cdb842c6329b24c34b2bf4206c25e933073a9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d3243413545303f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465)](<https://mik_potapov97>)
-
-</div>
+[![Telegram](https://img.shields.io/badge/-Telegram-27A7E7?style=for-the-badge&logo=telegram)](https://mik_potapov97)
 
 ## Follow me 👀
 - Занимаюсь продуктовой и аналитикой данных
@@ -34,8 +32,6 @@
 ![EXCEL](https://img.shields.io/badge/Google%20Sheets-34A853.svg?style=for-the-badge&logo=Google-Sheets&logoColor=white)
 ![GIT](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE.svg?style=for-the-badge&logo=Apache-Airflow&logoColor=white)
-
-</div>
 
 ## Skills 🦾
 - Анализ метрик продуктов: RR, CR, ARPU, ARPPU, MAU, DAU и др
