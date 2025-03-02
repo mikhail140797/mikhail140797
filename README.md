@@ -5,7 +5,7 @@
 
 # Привет, я Михаил 👋
 
-<div>
+</div>
 
 ## Contacts ✉️
 
@@ -35,7 +35,7 @@
 ![GIT](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE.svg?style=for-the-badge&logo=Apache-Airflow&logoColor=white)
 
-<div>
+</div>
 
 ## Skills 🦾
 - Анализ метрик продуктов: RR, CR, ARPU, ARPPU, MAU, DAU и др
