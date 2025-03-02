@@ -5,6 +5,8 @@
 
 # Привет, я Михаил 👋
 
+<div>
+
 ## Contacts ✉️
 
 [![Telegram](https://img.shields.io/badge/-Telegram-27A7E7?style=for-the-badge&logo=telegram)](https://mik_potapov97)
@@ -32,6 +34,8 @@
 ![EXCEL](https://img.shields.io/badge/Google%20Sheets-34A853.svg?style=for-the-badge&logo=Google-Sheets&logoColor=white)
 ![GIT](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE.svg?style=for-the-badge&logo=Apache-Airflow&logoColor=white)
+
+<div>
 
 ## Skills 🦾
 - Анализ метрик продуктов: RR, CR, ARPU, ARPPU, MAU, DAU и др
