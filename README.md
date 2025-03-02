@@ -4,7 +4,10 @@
 <div align="center">
 
 # Привет, я Михаил 👋
-[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://mik_potapov97)
+
+<div align="center">
+          
+<a href="">[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://mik_potapov97)</a>
 
 </div>
 
