@@ -25,4 +25,10 @@
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE.svg?style=for-the-badge&logo=Apache-Airflow&logoColor=white)
 
 </div>
+
+## Projects
+| Проект | Описание | Стек |
+|----------------|-----------------|-----------------|
+|[Mobile_Games](https://github.com/mikhail140797/project_2-Mobile_Games-)  |Анализ данных мобильной игры: написана функция для подсчета retention за нужный период, проведен А/Б тест, предложен набор метрик для оценки успешности событий в игре|Pandas, numpy, matplotlib, seaborn, scipy|
+|[E-comerce](https://github.com/mikhail140797/project_1-E-commerce-) |Анализ данных интернет-мазагина: основные задачи - retention и RFM-анализ|Pandas, numpy, matplotlib, seaborn|
           
