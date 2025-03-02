@@ -9,7 +9,7 @@
 
 ## Contacts ✉️
 
-[![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://mik_potapov97)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/mik_potapov97)
 
 ## Follow me 👀
 - Занимаюсь продуктовой и аналитикой данных
